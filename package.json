@@ -2,7 +2,7 @@
   "name": "nicked-names",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SO-JIMM.github,io/nicked-name",
+  "homepage": "https://so-jimm.github.io/nicked-name",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
